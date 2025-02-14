@@ -1,2 +1,2 @@
 def health_check():
-	print("Health Check Successful")
+	print("Health Check Successful2")
